@@ -1,0 +1,17 @@
+#id{
+    color: antiquewhite;
+}
+div{
+    color: black;
+}
+class.turn{
+    color: aquamarine;
+}
+id, class, tag{
+    color: azure;
+}
+#name{
+    margin-left: 10px;
+    height: 200px;
+    width: 100px;
+}
